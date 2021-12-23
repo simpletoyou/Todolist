@@ -1,13 +1,18 @@
+/*
+ * @Description: 
+ * @version: 
+ * @Author: simpletoyou
+ * @Date: 2021-12-23 11:58:45
+ * @LastEditors: simpletoyou
+ * @LastEditTime: 2021-12-23 13:57:22
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+    <App />,
   document.getElementById('root')
 );
 
